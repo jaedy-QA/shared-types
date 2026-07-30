@@ -2,6 +2,24 @@
 
 ---
 
+## How to use this repository
+
+This repository contains the shared TypeScript types used by the auth service, notes API, and frontend.
+
+1. Install dependencies:
+
+```bash
+npm install
+```
+
+2. Build the package:
+
+```bash
+npm run build
+```
+
+Use this repository as the shared type package for the other services in the multi-repo setup.
+
 Project-wide README (copied from repository root)
 
 My Notes App
