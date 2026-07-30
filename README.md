@@ -6,6 +6,8 @@
 
 This repository contains the shared TypeScript types used by the auth service, notes API, and frontend.
 
+Important: if you want to run the full app locally, start it from the parent `my-notes-app` folder with `npm run dev`. The shared-types repo itself is only the shared package and does not start the app.
+
 1. Install dependencies:
 
 ```bash
